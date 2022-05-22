@@ -22,11 +22,11 @@ if(cID == "23PF560R12U6"){
 
 if(cID == "60DN33A6P2O7"){
     document.getElementById("codValidacao").value = cID;
-    document.getElementById("nome").value = "ALEX";
-    let curso = "Superior de tecnologia em gestão comercial";
+    document.getElementById("nome").value = "PEDRO HENRIQUE BATISTA DA SILVA";
+    let curso = "SUPERIOR TECNÓLOGO EM MARKETING";
     document.getElementById("curso").value = curso.toUpperCase();
-    document.getElementById("rgm").value = "02631490-1";
-    document.getElementById("cpf").value = "163.291.358-51";
+    document.getElementById("rgm").value = "03645900-1";
+    document.getElementById("cpf").value = "465.590.388-07";
 }
 
 
