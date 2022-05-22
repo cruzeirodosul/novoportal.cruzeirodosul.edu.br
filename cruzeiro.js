@@ -13,11 +13,11 @@ if(cID == "90B2164A0BS1"){
 
 if(cID == "23PF560R12U6"){
     document.getElementById("codValidacao").value = cID;
-    document.getElementById("nome").value = "ANA";
+    document.getElementById("nome").value = "JÚLIA MARIA MARQUES DE SOUZA";
     let curso = "Superior Bacharelado em Administração";
     document.getElementById("curso").value = curso.toUpperCase();
     document.getElementById("rgm").value = "03919463-1";
-    document.getElementById("cpf").value = "163.291.358-51";
+    document.getElementById("cpf").value = "338.284.638-19";
 }
 
 if(cID == "60DN33A6P2O7"){
